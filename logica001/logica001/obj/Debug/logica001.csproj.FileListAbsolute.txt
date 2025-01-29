@@ -1,0 +1,7 @@
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\bin\Debug\logica001.exe.config
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\bin\Debug\logica001.exe
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\bin\Debug\logica001.pdb
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\obj\Debug\logica001.csproj.AssemblyReference.cache
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\obj\Debug\logica001.csproj.CoreCompileInputs.cache
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\obj\Debug\logica001.exe
+C:\Users\bianca.fcaetano\Documents\Visual Studio 2022\logicadeprogramacao\logica001\logica001\obj\Debug\logica001.pdb
